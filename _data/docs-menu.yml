@@ -17,6 +17,9 @@
     - title: Build Steps
       url: /steps
       text: Build Steps
+    - title: Environment Configuration
+      url: /environment-configuration
+      text: Environment Configuration
     - title: Notifications
       url: /notifications
       text: Notifications
